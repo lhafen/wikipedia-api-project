@@ -1,0 +1,32 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color:white;
+}
+
+li {
+    font-size:18px;
+    border-bottom:dashed 1px gray;
+    margin-bottom:15px;
+    margin-top:10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    font-weight:bold;
+}
+
+.btn {
+    margin-bottom:25px;
+}
+
+button {
+    margin:10px;
+    display:inline-block;
+}
+
+input {
+    display:inline-block;
+}
